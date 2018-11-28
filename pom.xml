@@ -11,7 +11,7 @@
 
     <name>OSS Parent</name>
     <description>A Pom parent to set up open source projects for Maven repositories on https://oss.sonatype.org</description>
-    <url>oss-parent.seudev.com</url>
+    <url>http://oss-parent.seudev.com</url>
     <inceptionYear>2018</inceptionYear>
 
     <organization>
