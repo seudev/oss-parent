@@ -32,6 +32,10 @@
                 <role>Chief Executive Officer</role>
                 <role>Developer</role>
             </roles>
+            <timezone>America/Recife</timezone>
+            <properties>
+                <picUrl>https://seudev.com/img/member/ThomasSousa96.jpeg</picUrl>
+            </properties>
         </developer>
     </developers>
 
